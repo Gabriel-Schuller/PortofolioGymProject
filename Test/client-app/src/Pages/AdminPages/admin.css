@@ -1,0 +1,10 @@
+﻿.admin-muscle, .admin-exercise{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#test-add-exercise{
+    position: relative;
+    top: 280px;
+    left: -290px;
+}
