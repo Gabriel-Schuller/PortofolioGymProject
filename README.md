@@ -62,9 +62,9 @@ None
 ## Pictures
 
 
-![Picture of Unity+Game Capture](Images/MuscleSelector.PNG?raw=true "Title")
+![Muscle Selector](Images/MuscleSelector.png?raw=true "Title")
 
-![Picture of Unity+Game Capture](Images/FeaturesSelector.PNG?raw=true "Title")
+![FeaturesSelector](Images/FeaturesSelector.png?raw=true "Title")
 
-![Picture of Unity+Game Capture](Images/Logo-Header.PNG?raw=true "Title")
+![Logo-Header](Images/Logo-Header.png?raw=true "Title")
 
